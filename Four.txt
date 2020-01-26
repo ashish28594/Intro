@@ -1,2 +1,3 @@
 Creating Fourth File
 Directly Commiting Files
+removing files from unstaging area
