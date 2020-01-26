@@ -3,4 +3,3 @@ This is the test file for git tutorial for adding a new line # Tracking Changes 
 Adding New line to identify/View changes for local copy and git copy
 Making Changes
 Getting Old files
-Before Restoring Files-1
